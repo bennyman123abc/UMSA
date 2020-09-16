@@ -8,7 +8,6 @@ Installing the archetype is a simple task that can be completed with any standar
 1. Clone this repository by using `git clone https://github.com/bennyman123abc/UMSA` for HTTPS or `git clone ssh://git@github.com/bennyman123abc/UMSA` for SSH. 
 2. After cloning, travel into the repository directory.
 3. Run the command `mvn clean install` to install the archetype to your local Maven repository.
-4. Run the command `mvn deploy` to update your local repository's catalog.
 
 ## Usage
 ### Eclipse

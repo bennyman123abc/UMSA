@@ -14,7 +14,7 @@
       <defaultValue>https://www.spigotmc.org</defaultValue>
     </requiredProperty>
     <requiredProperty key="spigotVersion">
-      <defaultValue>1.15.2-R0.1-SNAPSHOT</defaultValue>
+      <defaultValue>1.16.3-R0.1-SNAPSHOT</defaultValue>
     </requiredProperty>
     <requiredProperty key="javaVersion">
       <defaultValue>1.8</defaultValue>
